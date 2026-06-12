@@ -1,0 +1,18 @@
+[
+  {
+    "EntryId": 1001,
+    "ProfileId": 0,
+    "EntryDate": "2026-06-11T16:13:38.9003197-07:00",
+    "Weight": 200,
+    "BodyFatPercentage": 20,
+    "Notes": "Need to increase cardio"
+  },
+  {
+    "EntryId": 1002,
+    "ProfileId": 0,
+    "EntryDate": "2026-06-11T16:15:23.698164-07:00",
+    "Weight": 99,
+    "BodyFatPercentage": null,
+    "Notes": ""
+  }
+]

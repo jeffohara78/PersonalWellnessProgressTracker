@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\obj\Debug\net8.0\PersonalWellnessProgressTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\obj\Debug\net8.0\PersonalWellnessProgressTracker.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\obj\Debug\net8.0\PersonalWellnessProgressTracker.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\obj\Debug\net8.0\PersonalWellnessProgressTracker.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\bin\Debug\net8.0\PersonalWellnessProgressTracker.exe
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\bin\Debug\net8.0\PersonalWellnessProgressTracker.deps.json
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\bin\Debug\net8.0\PersonalWellnessProgressTracker.runtimeconfig.json
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\bin\Debug\net8.0\PersonalWellnessProgressTracker.dll
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\bin\Debug\net8.0\PersonalWellnessProgressTracker.pdb
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\obj\Debug\net8.0\PersonalWellnessProgressTracker.dll
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\obj\Debug\net8.0\refint\PersonalWellnessProgressTracker.dll
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\obj\Debug\net8.0\PersonalWellnessProgressTracker.pdb
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\obj\Debug\net8.0\PersonalWellnessProgressTracker.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\PersonalWellnessProgressTracker\PersonalWellnessProgressTracker\obj\Debug\net8.0\ref\PersonalWellnessProgressTracker.dll

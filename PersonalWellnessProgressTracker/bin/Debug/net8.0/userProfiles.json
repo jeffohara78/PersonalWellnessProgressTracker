@@ -1,0 +1,16 @@
+[
+  {
+    "ProfileId": 101,
+    "FullName": "Jeff O\u0027Hara",
+    "HeightInInches": 73,
+    "StartingWeight": 200,
+    "GoalWeight": 180
+  },
+  {
+    "ProfileId": 102,
+    "FullName": "Shanna O\u0027Hara",
+    "HeightInInches": 64,
+    "StartingWeight": 195,
+    "GoalWeight": 120
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "WorkoutId": 5001,
+    "ProfileId": 0,
+    "WorkoutDate": "2026-06-11T16:14:13.7213398-07:00",
+    "WorkoutType": "Bike riding",
+    "Minutes": 30,
+    "Intensity": "Moderate",
+    "Notes": "Rode on the trainer"
+  }
+]
